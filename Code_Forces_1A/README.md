@@ -30,6 +30,7 @@ Output
 Write the needed number of flagstones.
 
 - Examples:
+
 input: 
 6 6 4
 
