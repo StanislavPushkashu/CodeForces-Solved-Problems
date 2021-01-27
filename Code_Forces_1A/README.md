@@ -3,7 +3,7 @@ Problem 1 A from https://codeforces.com/problemset/problem/1/A
 Problem description:
 
                                               Theatre Square
-- time limit per test1 second
+- time limit per test: 1 second
 - memory limit per test256 megabytes
 - input: standard input
 - output: standard output
@@ -23,10 +23,10 @@ allowed to break the flagstones. The sides of
 flagstones should be parallel to the sides of 
 the Square.
 
-Input
+- Input: 
 The input contains three positive integer numbers in the first line: n,  m and a (1 ≤  n, m, a ≤ 109).
 
-Output
+- Output: 
 Write the needed number of flagstones.
 
 - Examples:
