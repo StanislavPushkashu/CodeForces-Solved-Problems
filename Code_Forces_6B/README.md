@@ -1,4 +1,4 @@
-Problem 1 A from https://codeforces.com/problemset/problem/1/A
+Problem 6 B from https://codeforces.com/problemset/problem/6/B
 
 Problem description:
 
