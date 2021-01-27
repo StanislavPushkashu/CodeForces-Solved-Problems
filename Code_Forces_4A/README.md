@@ -21,11 +21,11 @@ are extremely tired and want to start their meal as soon as possible, that's why
 you should help them and find out, if they can divide the watermelon in the way 
 they want. For sure, each of them should get a part of positive weight.
 
-Input
+- Input: 
 The first (and the only) input line contains integer number w (1 ≤ w ≤ 100) — 
 the weight of the watermelon bought by the boys.
 
-Output
+- Output: 
 Print YES, if the boys can divide the watermelon into two parts, each of them 
 weighing even number of kilos; and NO in the opposite case.
 
