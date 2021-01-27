@@ -28,6 +28,7 @@ Output the minimal number of moves needed to make the
 sequence increasing.
 
 - Examples: 
+
 input: 
 4 2
 1 3 3 2
