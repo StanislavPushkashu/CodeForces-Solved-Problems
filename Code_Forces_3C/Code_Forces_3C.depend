@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587284823 source:c:\users\user\documents\c_projects\code_forces_3c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
