@@ -27,7 +27,7 @@ either empty, or contains a part of a desk. An
 uppercase Latin letter stands for each desk colour. 
 The «period» character («.») stands for an empty cell.
 
-Input
+- Input: 
 The first line contains two separated by a space integer 
 numbers n, m (1 ≤ n, m ≤ 100) — the length and the width 
 of the office-room, and c character — the President's 
@@ -37,25 +37,25 @@ that the colour of each desk is unique, and each desk
 represents a continuous subrectangle of the given matrix. 
 All colours are marked by uppercase Latin letters.
 
-Output
+- Output: 
 Print the only number — the amount of President's deputies.
 
-Examples
-input
+- Examples: 
+input: 
 3 4 R
 G.B.
 .RR.
 TTT.
 
-output
+output: 
 2
 
-input
+input: 
 3 3 Z
 ...
 .H.
 ..Z
 
-output
+output: 
 0
 Solved by Stanislav Pushkashu <stasik.pushkashu@gmail.com>
