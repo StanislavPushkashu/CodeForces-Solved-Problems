@@ -4,7 +4,7 @@ Problem description:
 
                                         President's Office
  - time limit per test: 2 seconds
- - memory limit per test64 megabytes
+ - memory limit per test: 64 megabytes
  - input: standard input
  - output: standard output
  
