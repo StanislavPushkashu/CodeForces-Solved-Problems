@@ -3,7 +3,7 @@ Problem 1 A from https://codeforces.com/problemset/problem/4/A
 Problem description:
 
                                       Watermelon
- - time limit per test1 second
+ - time limit per test: 1 second
  - memory limit per test64 megabytes
  - input: standard input
  - output: standard output
@@ -29,14 +29,15 @@ Output
 Print YES, if the boys can divide the watermelon into two parts, each of them 
 weighing even number of kilos; and NO in the opposite case.
 
-Examples
-input
+- Examples:
+
+input: 
 8
 
-output
+output: 
 YES
 
-Note
+- Note: 
 For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 respectively (another variant — two parts of 4 and 4 kilos).
 
