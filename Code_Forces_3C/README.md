@@ -3,7 +3,7 @@ Problem 3 C from https://codeforces.com/problemset/problem/3/C
 Problem description:
 
                                         Tic-tac-toe
- - time limit per test1 second
+ - time limit per test: 1 second
  - memory limit per test64 megabytes
  - input: standard input
  - output: standard output
