@@ -1,4 +1,4 @@
-Problem 1 A from https://codeforces.com/
+Problem 1 A from https://codeforces.com/problemset/problem/1/A
 
 Problem description:
 
@@ -32,6 +32,7 @@ Write the needed number of flagstones.
 Examples:
 input
 6 6 4
+
 output
 4
 
