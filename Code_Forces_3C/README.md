@@ -43,9 +43,9 @@ player won, the second player won or draw.
 - Examples:
 
 input: 
- X0X
- .0.
- .X.
+  X0X
+  .0.
+  .X.
 
 output: 
 second
