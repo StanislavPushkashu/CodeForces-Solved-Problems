@@ -40,13 +40,14 @@ Output
 Print one of the six verdicts: first, second, illegal, the first
 player won, the second player won or draw.
 
-Examples
-input
-X0X
-.0.
-.X.
+- Examples:
 
-output
+input: 
+ X0X
+ .0.
+ .X.
+
+output: 
 second
 
 Solved by Stanislav Pushkashu <stasik.pushkashu@gmail.com>
