@@ -5,8 +5,8 @@ Problem description:
                                         Before an Exam
  - time limit per test0.5 second
  - memory limit per test64 megabytes
- - inputstandard input
- - outputstandard output
+ - input: standard input
+ - output: standard output
 Tomorrow Peter has a Biology exam. He does not like this subject much,
 but d days ago he learnt that he would have to take this exam. Peter's 
 strict parents made him prepare for the exam immediately, for this 
