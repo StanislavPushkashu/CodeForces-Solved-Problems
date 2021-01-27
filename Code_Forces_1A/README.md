@@ -29,11 +29,11 @@ The input contains three positive integer numbers in the first line: n,  m a
 Output
 Write the needed number of flagstones.
 
-Examples:
-input
+- Examples:
+input: 
 6 6 4
 
-output
+output: 
 4
 
 Solved by Stanislav Pushkashu <stasik.pushkashu@gmail.com>
