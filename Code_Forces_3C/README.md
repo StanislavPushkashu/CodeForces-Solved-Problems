@@ -31,12 +31,12 @@ first player has just won;
  second player has just won;
  - draw — if the given board layout has just let to a draw.
  
-Input
+- Input: 
 The input consists of three lines, each of the lines contains 
 characters ".", "X" or "0" (a period, a capital letter X, or 
 a digit zero).
 
-Output
+- Output: 
 Print one of the six verdicts: first, second, illegal, the first
 player won, the second player won or draw.
 
