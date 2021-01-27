@@ -5,8 +5,8 @@ Problem description:
                                         Tic-tac-toe
  - time limit per test1 second
  - memory limit per test64 megabytes
- - inputstandard input
- - outputstandard output
+ - input: standard input
+ - output: standard output
  
 Certainly, everyone is familiar with tic-tac-toe game. 
 The rules are very simple indeed. Two players take 
