@@ -3,7 +3,7 @@ Problem 1 A from https://codeforces.com/problemset/problem/1/A
 Problem description:
 
                                         President's Office
- - time limit per test2 seconds
+ - time limit per test: 2 seconds
  - memory limit per test64 megabytes
  - input: standard input
  - output: standard output
