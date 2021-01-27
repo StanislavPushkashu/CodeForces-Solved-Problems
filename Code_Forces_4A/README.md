@@ -4,7 +4,7 @@ Problem description:
 
                                       Watermelon
  - time limit per test: 1 second
- - memory limit per test64 megabytes
+ - memory limit per test: 64 megabytes
  - input: standard input
  - output: standard output
  
