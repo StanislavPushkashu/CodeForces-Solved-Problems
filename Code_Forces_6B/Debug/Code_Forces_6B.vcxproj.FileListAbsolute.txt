@@ -1,0 +1,2 @@
+D:\Projects\C_Projects\Code_Forces_6B\Debug\Code_Forces_6B.exe
+D:\Projects\C_Projects\Code_Forces_6B\Debug\Code_Forces_6B.pdb
