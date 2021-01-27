@@ -5,8 +5,8 @@ Problem description:
                                               Theatre Square
 - time limit per test1 second
 - memory limit per test256 megabytes
-- inputstandard input
-- outputstandard output
+- input: standard input
+- output: standard output
 
 Theatre Square in the capital city of Berland 
 has a rectangular shape with the size n × m 
