@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573749905 source:c:\users\user\documents\c_projects\code_forces_32a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
